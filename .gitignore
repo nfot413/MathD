@@ -15,7 +15,9 @@
 *.gls
 *.glg
 *.synctex.gz
-
+*.fdb_latexmk 
+*.fls 
+*.synctex(busy)
 
 # 忽略 PDF 文件
 *.pdf

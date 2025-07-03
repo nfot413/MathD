@@ -9,4 +9,4 @@ $(PROJ).pdf: $(PROJ).tex
 	xelatex $(PROJ).tex
 
 clean:
-	rm -f *.aux *.log *.out *.toc *.bbl *.blg *.lof *.lot *.pdf *.synctex.gz
+	rm -f *.aux *.log *.out *.toc *.bbl *.blg *.lof *.lot *.pdf *.synctex.gz *.fdb_latexmk *.fls *.synctex\(busy\)
