@@ -1,0 +1,22 @@
+# 忽略 LaTeX 编译生成的临时文件
+*.aux
+*.bbl
+*.blg
+*.brf
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.idx
+*.ind
+*.ilg
+*.glo
+*.gls
+*.glg
+*.synctex.gz
+
+
+# 忽略 PDF 文件
+*.pdf
+
