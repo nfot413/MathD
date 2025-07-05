@@ -22,3 +22,5 @@
 # 忽略 PDF 文件
 *.pdf
 
+.DS_Store
+
